@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="r1" source="Pin Planner" >
+		</pin>
+		<pin name="bcd1" source="Pin Planner" >
+		</pin>
+		<pin name="bcd2" source="Pin Planner" >
+		</pin>
+		<pin name="bcd3" source="Pin Planner" >
+		</pin>
+		<pin name="bcd4" source="Pin Planner" >
+		</pin>
+		<pin name="bcd5" source="Pin Planner" >
+		</pin>
+		<pin name="bcd6" source="Pin Planner" >
+		</pin>
+		<pin name="bcd7" source="Pin Planner" >
+		</pin>
+		<pin name="binary5" source="Pin Planner" >
+		</pin>
+		<pin name="binary6" source="Pin Planner" >
+		</pin>
+		<pin name="binary7" source="Pin Planner" >
+		</pin>
+		<pin name="binary8" source="Pin Planner" >
+		</pin>
+		<pin name="bcd8" source="Pin Planner" >
+		</pin>
+		<pin name="binary1" source="Pin Planner" >
+		</pin>
+		<pin name="binary2" source="Pin Planner" >
+		</pin>
+		<pin name="binary3" source="Pin Planner" >
+		</pin>
+		<pin name="binary4" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
