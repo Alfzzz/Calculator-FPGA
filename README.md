@@ -13,4 +13,4 @@ This project consisted on designing a 4 decimal digit calculator with logic circ
 Final project report written in spanish:
 
 
-https://github.com/Alfzzz/Digital-Systems-VHDL/blob/master/final.pdf
+https://github.com/Alfzzz/Calculator-FPGA/blob/main/final.pdf
